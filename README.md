@@ -32,7 +32,7 @@ If you have created all the vectors you need, then you can use them for the foll
 </div>
 
 Here they are some examples of vector operations like dot and cross products.
-<div style="display: grid; grid-template-columns: 50% 50%;">
+<div style="display: grid; grid-template-rows: 1fr; grid-template-columns: 50% 50%;">
   <img src="/imgs/vector-dot.png" alt="Dot Product"/>
   <img src="/imgs/vector-cross.png" alt="Cross Product"/>
 </div>
