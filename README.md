@@ -4,7 +4,7 @@ C program witch computes matrix and vector operations, such as addition, multipl
 ## Main Menu
 When you first open the executable of the program, the following menu appears.
 <div>
-  <img src="/imgs/main-options.png" alt="Main Menu" width="minmax(500px, 80%)"/>
+  <img src="/imgs/main-options.png" alt="Main Menu" width="80%"/>
 </div>
 If you want to choose an option you should press the corresponding key, unless you press 0 and you exit the program.
 
@@ -33,6 +33,6 @@ If you have created all the vectors you need, then you can use them for the foll
 
 Here they are some examples of vector operations like dot and cross products.
 <div float="left">
-  <img src="/imgs/vector-dot.png" alt="Dot Product" width="520px"/>
-  <img src="/imgs/vector-cross.png" alt="Cross Product" width="520px"/>
+  <img src="/imgs/vector-dot.png" alt="Dot Product" width="500px"/>
+  <img src="/imgs/vector-cross.png" alt="Cross Product" width="500px"/>
 </div>
