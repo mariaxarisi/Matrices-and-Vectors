@@ -11,12 +11,12 @@ If you want to choose an option you should press the corresponding key, unless y
 ## Create a Matrix or a Vector
 You have two options for creation. At the first one, you can customize your matrix or vector at your preferences, by fill in all the coordinates and elements by yourself.
 <div>
-  <img src="/imgs/creation.png" alt="Create a Matrix or a Vector" width="80%"/>
+  <img src="/imgs/creation.png" alt="Create a Matrix or a Vector" width="70%"/>
 </div>
 
 At the second option, you will just fil in the dimensions of your matrix/vector and the program will create randomly all the necessary coordinates.
 <div>
-  <img src="/imgs/random-creation.png" alt=="Randomly create a Matrix or a Vector" width="80%"/>
+  <img src="/imgs/random-creation.png" alt=="Randomly create a Matrix or a Vector" width="70%"/>
 </div>
 
 ## Available matrices and vectors
