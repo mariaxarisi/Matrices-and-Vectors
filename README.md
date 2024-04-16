@@ -33,8 +33,8 @@ If you have created all the vectors you need, then you can use them for the foll
 
 Here they are some examples of vector operations like dot and cross products.
 <div>
-  <img src="/imgs/vector-dot.png" alt="Dot Product" width="80%"/>
+  <img src="/imgs/vector-dot.png" alt="Dot Product" width="70%"/>
 </div>
 <div>
-  <img src="/imgs/vector-cross.png" alt="Cross Product" width="80%"/>
+  <img src="/imgs/vector-cross.png" alt="Cross Product" width="70%"/>
 </div>
