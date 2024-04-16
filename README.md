@@ -36,3 +36,14 @@ Here they are some examples of vector operations like dot and cross products.
   <img src="/imgs/vector-dot.png" alt="Dot Product" width="500px"/>
   <img src="/imgs/vector-cross.png" alt="Cross Product" width="500px"/>
 </div>
+
+## Matrix Operations
+You can do operations between matrices too. 
+<div>
+  <img src="/imgs/matrix-oper.png" alt="Matrix Operations" width="80%"/>
+</div>
+
+Here is an example of matrix multiplication.
+<div>
+  <img src="/imgs/matrix-mult.png" alt="Matrix Multiplication" width="80%"/>
+</div>
